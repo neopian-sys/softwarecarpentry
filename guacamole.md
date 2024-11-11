@@ -1,3 +1,4 @@
 #Guacamole 
-## Ingredients 
+## Ingredients
+salt 
 ##Method
